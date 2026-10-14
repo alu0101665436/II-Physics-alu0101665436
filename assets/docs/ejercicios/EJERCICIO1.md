@@ -21,7 +21,7 @@ El script lee los ejes `Horizontal` y `Vertical` y aplica aceleración en el pla
 
 ## Resultado
 
-![Ejercicio1Gif](../videos/ejercicio1.gif)
+![Ejercicio1Gif](../../videos/ejercicio1.gif)
 
 El personaje se desplaza en los ejes X y Z con el teclado y conserva las interacciones físicas proporcionadas por su `Rigidbody`.
 
@@ -29,4 +29,4 @@ El personaje se desplaza en los ejes X y Z con el teclado y conserva las interac
 
 ### Navegación
 
-[Volver al inicio](../../README.md) · [Ejercicio siguiente](./EJERCICIO2.md) →
+[Volver al inicio](../../../README.md) · [Ejercicio siguiente](./EJERCICIO2.md) →

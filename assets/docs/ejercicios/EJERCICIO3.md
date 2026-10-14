@@ -23,7 +23,7 @@ Se crean dos zonas de detección con `Collider` configurados como **Is Trigger**
 
 ## Resultado
 
-![Ejercicio3Gif](../videos/ejercicio3.gif)
+![Ejercicio3Gif](../../videos/ejercicio3.gif)
 
 El efecto visual se aplica al entrar y se revierte al salir. La zona adicional incrementa el daño del jugador al entrar y periódicamente mientras permanece en ella.
 
@@ -31,4 +31,4 @@ El efecto visual se aplica al entrar y se revierte al salir. La zona adicional i
 
 ### Navegación
 
-← [Ejercicio anterior](./EJERCICIO2.md) · [Volver al inicio](../../README.md) · [Ejercicio siguiente](./EJERCICIO4.md) →
+← [Ejercicio anterior](./EJERCICIO2.md) · [Volver al inicio](../../../README.md) · [Ejercicio siguiente](./EJERCICIO4.md) →

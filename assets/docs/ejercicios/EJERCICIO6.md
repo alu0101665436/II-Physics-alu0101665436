@@ -21,7 +21,7 @@ Se implementó un script que permite que la esfera se desplace progresivamente h
 
 ## Resultado
 
-![Resultado del ejercicio 6](../videos/ejercicio6.gif)
+![Resultado del ejercicio 6](../../videos/ejercicio6.gif)
 
 La esfera se desplaza hacia el cilindro objetivo y, al alcanzar el cubo que actúa como obstáculo, se detecta el solapamiento entre sus figuras delimitadoras (coliders). Como resultado, la esfera cambia su material visual por el material configurado en el Inspector.
 
@@ -29,4 +29,4 @@ La esfera se desplaza hacia el cilindro objetivo y, al alcanzar el cubo que act�
 
 ### Navegación
 
-← [Ejercicio anterior](./EJERCICIO5.md) · [Volver al inicio](../../README.md)
+← [Ejercicio anterior](./EJERCICIO5.md) · [Volver al inicio](../../../README.md)

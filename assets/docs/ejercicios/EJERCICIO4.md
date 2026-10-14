@@ -14,7 +14,7 @@ La configuración debe permitir que los enemigos colisionen físicamente con el 
 4. Se conserva activa la interacción `Player`–`Collectable` para que Unity pueda enviar los eventos del trigger. Configura el collider del recolectable con **Is Trigger** para detectarlo sin una colisión física.
 
 A continuación se expone exactamente una imagen de la matriz de colisión utilizada:
-![MatrizDeColisión](../img/ejercicio4-config.png)
+![MatrizDeColisión](../../img/ejercicio4-config.png)
 
 ## Conceptos utilizados
 
@@ -24,7 +24,7 @@ A continuación se expone exactamente una imagen de la matriz de colisión utili
 
 ## Resultado
 
-![Ejercicio4Gif](../videos/ejercicio4.gif)
+![Ejercicio4Gif](../../videos/ejercicio4.gif)
 
 El jugador detecta las colisiones con los enemigos y los triggers de los recolectables. Las parejas de capas desactivadas en la matriz no generan interacciones.
 
@@ -32,4 +32,4 @@ El jugador detecta las colisiones con los enemigos y los triggers de los recolec
 
 ### Navegación
 
-← [Ejercicio anterior](./EJERCICIO3.md) · [Volver al inicio](../../README.md) · [Ejercicio siguiente](./EJERCICIO5.md) →
+← [Ejercicio anterior](./EJERCICIO3.md) · [Volver al inicio](../../../README.md) · [Ejercicio siguiente](./EJERCICIO5.md) →

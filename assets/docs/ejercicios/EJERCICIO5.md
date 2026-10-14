@@ -21,15 +21,15 @@ A continuación se expone una imagen con cada una de las configuraciones de los 
 
 **Resbaladizo**
 
-![Resbaladizo](../img/ejercicio5-resbaladizo.png)
+![Resbaladizo](../../img/ejercicio5-resbaladizo.png)
 
 **Rugoso**
 
-![Resbaladizo](../img/ejercicio5-rugoso.png)
+![Resbaladizo](../../img/ejercicio5-rugoso.png)
 
 **Rebote Alto**
 
-![Resbaladizo](../img/ejercicio5-rebote-alto.png)
+![Resbaladizo](../../img/ejercicio5-rebote-alto.png)
 
 ## Conceptos utilizados
 
@@ -40,7 +40,7 @@ A continuación se expone una imagen con cada una de las configuraciones de los 
 
 ## Resultado
 
-![Ejercicio5Gif](../videos/ejercicio5.gif)
+![Ejercicio5Gif](../../videos/ejercicio5.gif)
 
 Al pulsar la tecla X, las esferas reciben un impulso en los ejes `y` e `z` y se observa cómo reaccionan al caer y colisionar con el suelo. La esfera con material resbaladizo ofrece menor resistencia a la fricción, la esfera rugosa pierde movimiento horizontal con mayor rapidez y la esfera con rebote alto alcanza una mayor altura en sus rebotes.
 
@@ -48,4 +48,4 @@ Al pulsar la tecla X, las esferas reciben un impulso en los ejes `y` e `z` y se 
 
 ### Navegación
 
-← [Ejercicio anterior](./EJERCICIO4.md) · [Volver al inicio](../../README.md) · [Ejercicio siguiente](./EJERCICIO6.md) →
+← [Ejercicio anterior](./EJERCICIO4.md) · [Volver al inicio](../../../README.md) · [Ejercicio siguiente](./EJERCICIO6.md) →

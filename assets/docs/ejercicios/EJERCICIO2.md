@@ -21,7 +21,7 @@ Se preparan varios cubos o esferas con `Rigidbody` dinámicos y un `Collider`. A
 
 ## Resultado
 
-![Ejercicio2Gif](../videos/ejercicio2.gif)
+![Ejercicio2Gif](../../videos/ejercicio2.gif)
 
 Al chocar entre sí, los objetos muestran en la consola el nombre de su objeto de contacto y cambian de color.
 
@@ -29,4 +29,4 @@ Al chocar entre sí, los objetos muestran en la consola el nombre de su objeto d
 
 ### Navegación
 
-← [Ejercicio anterior](./EJERCICIO1.md) · [Volver al inicio](../../README.md) · [Ejercicio siguiente](./EJERCICIO3.md) →
+← [Ejercicio anterior](./EJERCICIO1.md) · [Volver al inicio](../../../README.md) · [Ejercicio siguiente](./EJERCICIO3.md) →
